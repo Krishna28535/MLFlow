@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/909971792954669449/0fdb54fd051841289f82776dbcf21e5a/artifacts
+end_time: 1750572853514
+entry_point_name: ''
+experiment_id: '909971792954669449'
+lifecycle_stage: active
+run_id: 0fdb54fd051841289f82776dbcf21e5a
+run_name: popular-trout-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750572851191
+status: 3
+tags: []
+user_id: Krishna Kesharwani
