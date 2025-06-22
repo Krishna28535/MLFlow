@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/909971792954669449/e8d10b993114455b94124bdc9156c78e/artifacts
+end_time: 1750575174447
+entry_point_name: ''
+experiment_id: '909971792954669449'
+lifecycle_stage: active
+run_id: e8d10b993114455b94124bdc9156c78e
+run_name: salty-moose-168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750575169013
+status: 3
+tags: []
+user_id: Krishna Kesharwani

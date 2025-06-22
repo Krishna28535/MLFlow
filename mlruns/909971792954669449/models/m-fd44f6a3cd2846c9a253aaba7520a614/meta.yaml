@@ -1,0 +1,10 @@
+artifact_location: file:///D:/MLFlow/MLFlow/mlruns/909971792954669449/models/m-fd44f6a3cd2846c9a253aaba7520a614/artifacts
+creation_timestamp: 1750575046661
+experiment_id: '909971792954669449'
+last_updated_timestamp: 1750575053140
+model_id: m-fd44f6a3cd2846c9a253aaba7520a614
+model_type: null
+name: RandomForest
+source_run_id: af156e65e4794adfabc9d863555e5974
+status: 2
+status_message: null
